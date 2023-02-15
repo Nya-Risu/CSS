@@ -1,3 +1,12 @@
-#elem li.text {
-  color: green;
+.elem1 {
+	color: green
+}
+.elem2 {
+	color: yellow
+}
+.elem3 {
+	color: blue
+}
+.elem1.elem2.elem3 {
+	color: greenyellow
 }
