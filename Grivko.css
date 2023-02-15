@@ -1,26 +1,3 @@
-/* Задача 34 №1 */
-.success {
-	color: green;
-}
-.error {
-	color: red;
-}
-.large {
-	font-size: 30px;
-}
-.small {
-	font-size: 20px;
-}
-
-
-
-/* Задача 34 №2 */
-.dyrak {
-    color: orange;
-}
-.no {
-    font-size: 30px;
-}
-.ipravlys {
-    font-family: 'Times New Roman';
+#elem h2 {
+  color: green;
 }
