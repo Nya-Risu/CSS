@@ -1,12 +1,39 @@
-.elem1 {
-	color: green
+.bbb.zzz {
+	color: red;
 }
-.elem2 {
-	color: yellow
+h2.bbb.zzz {
+	color: green;
 }
-.elem3 {
-	color: blue
+#elem.bbb {
+	color: yellow;
 }
-.elem1.elem2.elem3 {
-	color: greenyellow
+#elem.bbb.zzz{
+	color: yellowgreen;
+}
+h2#elem.bbb {
+	color: blue;
+}
+h2.zzz {
+	color: rebeccapurple;
+}
+h2 .zzz {
+	color: goldenrod;
+}
+.bbb .zzz {
+	color: gray;
+}
+.bbb.zzz.xxx {
+	color: firebrick;
+}
+.bbb .zzz.xxx {
+	color: purple;
+}
+.bbb.zzz .xxx {
+	color: pink;
+}
+.bbb .zzz .xxx {
+	color: teal;
+}
+#elem .bbb {
+	color: darkolivegreen;
 }
