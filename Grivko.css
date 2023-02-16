@@ -1,39 +1,4 @@
-.bbb.zzz {
-	color: red;
-}
-h2.bbb.zzz {
-	color: green;
-}
-#elem.bbb {
-	color: yellow;
-}
-#elem.bbb.zzz{
-	color: yellowgreen;
-}
-h2#elem.bbb {
-	color: blue;
-}
-h2.zzz {
-	color: rebeccapurple;
-}
-h2 .zzz {
-	color: goldenrod;
-}
-.bbb .zzz {
-	color: gray;
-}
-.bbb.zzz.xxx {
-	color: firebrick;
-}
-.bbb .zzz.xxx {
-	color: purple;
-}
-.bbb.zzz .xxx {
-	color: pink;
-}
-.bbb .zzz .xxx {
-	color: teal;
-}
-#elem .bbb {
-	color: darkolivegreen;
+/* Задание 1 */
+#block h1, #block h2 {
+  text-align: center;
 }
