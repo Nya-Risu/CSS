@@ -1,3 +1,28 @@
-main * p {
-	color: red;
+/* Задание 1 */
+[title1]{
+  color: blue;
+}
+/* Задание 2 */
+p[title2]{
+    color: red;
+}
+/* Задание 3 */
+p[title3='Привет']{
+  color: goldenrod;
+}
+/* Задание 4 */
+a[href*="http://"]{
+    color: blueviolet;
+}
+/* Задание 5 */
+a[href*=".html"] {
+    color: yellow;
+}
+/* Задание 6 */
+p[title6*='Привет']{
+  color: greenyellow;
+}
+/* Задание 7 */
+[class*='top-'] {
+  color: magenta;
 }
