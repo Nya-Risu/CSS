@@ -1,8 +1,3 @@
-/* задание 1 */
-#elem + li {
+#elem ~ li {
 	color: red;
-}
-/* Задание 2 */
-.elem + li {
-	color: blue;
 }
