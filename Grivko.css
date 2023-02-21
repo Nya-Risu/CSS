@@ -1,8 +1,28 @@
+/* Задагние 1 */
 a {
-	color: blue;
-  text-decoration: none;
+	color: red;
 }
 a:hover {
-	color: red;
-  text-decoration: underline;
+	text-decoration: none;
+}
+/* Задание 2 */
+a.zzz {
+	color: blue;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+/* Задание 3 */
+#block a.zzz {
+	color: goldenrod;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+/* Задание 4 */
+.block a.zzz {
+	color: purple;
+}
+.block a.zzz:hover {
+	text-decoration: none;
 }
