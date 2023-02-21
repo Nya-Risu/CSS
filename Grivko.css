@@ -1,28 +1,6 @@
-/* Задагние 1 */
-a {
-	color: red;
+li:first-child{
+  color: red;
 }
-a:hover {
-	text-decoration: none;
-}
-/* Задание 2 */
-a.zzz {
+li:last-child {
 	color: blue;
-}
-a.zzz:hover {
-	text-decoration: none;
-}
-/* Задание 3 */
-#block a.zzz {
-	color: goldenrod;
-}
-#block a.zzz:hover {
-	text-decoration: none;
-}
-/* Задание 4 */
-.block a.zzz {
-	color: purple;
-}
-.block a.zzz:hover {
-	text-decoration: none;
 }
