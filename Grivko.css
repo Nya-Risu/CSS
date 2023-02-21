@@ -1,6 +1,8 @@
-#block {
+/* задание 1 */
+#elem + li {
 	color: red;
 }
-.text {
-	color: green;
+/* Задание 2 */
+.elem + li {
+	color: blue;
 }
