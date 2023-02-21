@@ -1,3 +1,6 @@
-div.fff h2.bbb {
-  color: blue;
+#block {
+	color: red;
+}
+.text {
+	color: green;
 }
