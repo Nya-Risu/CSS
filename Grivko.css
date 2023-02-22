@@ -1,28 +1,20 @@
 #elem1 {
-	border-width: 3px;
-	border-style: ridge;
-	border-color: blue;
+	border: 1px solid red;
 	width: 300px;
 	height: 100px;
 }
 #elem2 {
-	border-width: 3px;
-	border-style: dotted;
-	border-color: red;
+	border: 1px dotted blue;
 	width: 300px;
 	height: 100px;
 }
 #elem3 {
-	border-width: 2px;
-	border-style: dashed;
-	border-color: goldenrod;
+	border: 3px dashed green;
 	width: 300px;
 	height: 100px;
 }
 #elem4 {
-	border-width: 5px;
-	border-style: double;
-	border-color: blue;
+	border: 5px double red;
 	width: 300px;
 	height: 100px;
 }
