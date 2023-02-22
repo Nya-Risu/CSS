@@ -1,20 +1,9 @@
 #elem1 {
-	width: 5000px;
-	height: 3000px;
-	border: 10px solid green;
-	background-image: url("Сова2.jpg");
+	list-style-type: square;
 }
 #elem2 {
-	width: 5000px;
-	height: 3000px;
-	border: 10px solid red;
-	background-image: url("Сова2.jpg");
-	background-repeat: repeat-y;
+	list-style-type: circle;
 }
 #elem3 {
-	width: 5000px;
-	height: 3000px;
-	border: 10px solid blue;
-	background-image: url("Сова2.jpg");
-	background-repeat: repeat-x;
+	list-style-type: none;
 }
