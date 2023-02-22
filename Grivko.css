@@ -1,9 +1,9 @@
 #elem1 {
-	list-style-type: square;
+	list-style-type: lower-alpha;
 }
 #elem2 {
-	list-style-type: circle;
+	list-style-type: lower-greek;
 }
 #elem3 {
-	list-style-type: none;
+	list-style-type: upper-alpha;
 }
