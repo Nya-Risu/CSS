@@ -1,20 +1,16 @@
 #elem1 {
-	border: 1px solid red;
 	width: 300px;
 	height: 100px;
+	border-top: 3px solid blue ;
+	border-left: 3px solid goldenrod;
+	border-right: 3px solid green;
+	border-bottom: 3px solid red;
 }
 #elem2 {
-	border: 1px dotted blue;
 	width: 300px;
 	height: 100px;
-}
-#elem3 {
-	border: 3px dashed green;
-	width: 300px;
-	height: 100px;
-}
-#elem4 {
-	border: 5px double red;
-	width: 300px;
-	height: 100px;
+	border-top: 5px solid blue ;
+	border-left: 5px ridge red;
+	border-right: 5px dotted green;
+	border-bottom: 5px solid blue;
 }
