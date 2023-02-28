@@ -1,6 +1,18 @@
 #elem1 {
-	padding: 50px 30px 50px 30px;
-	width: 200px;
+	padding: 10px 10px 30px 20px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem2 {
+	padding: 50px 20px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+#elem3 {
+	padding: 10px 20px 30px;
+	width: 300px;
 	border: 1px solid red;
 	text-align: justify;
 }
