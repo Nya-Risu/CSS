@@ -1,18 +1,15 @@
 #elem1 {
-	padding: 10px 10px 30px 20px;
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
+	width: 100px;
+	height: 100px;
+	background: greenyellow;
+	margin-bottom: 10px;
 }
+
 #elem2 {
-	padding: 50px 20px;
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
-}
-#elem3 {
-	padding: 10px 20px 30px;
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
+	width: 100px;
+	height: 100px;
+	background: greenyellow;
+	padding: 40px;
+	border: 10px solid goldenrod;
+	box-sizing: border-box;
 }
