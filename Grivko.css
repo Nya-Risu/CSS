@@ -1,54 +1,19 @@
-/* 1 */
 #elem1 {
-	width: 150px;
-	border: 1px solid goldenrod;
+	padding: 50px 30px 50px 30px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
 }
 #elem2 {
-	height: 50px;
-	border: 1px dashed blue;
-	margin: 20px 30px 100px 10px;
+	padding: 30px 30px 50px 30px;
+	width: 500px;
+	height: 70px;
+	border: 1px solid green;
+	text-align: justify;
 }
-
-/* 2 */
 #elem3 {
-	width: 150px;
-	border: 1px solid goldenrod;
-}
-#elem4 {
-	height: 30px;
-	border: 1px dashed blue;
-	margin: 60px 40px;
-}
-
-/* 3 */
-#elem5 {
-	width: 150px;
-	border: 1px solid goldenrod;
-}
-#elem6 {
-	height: 50px;
-	border: 1px dashed blue;
-	margin: 30px 30px;
-}
-
-/* 4 */
-#elem7 {
-	width: 150px;
-	border: 1px solid goldenrod;
-}
-#elem8 {
-	height: 50px;
-	border: 1px dashed blue;
-	margin: 100px 30px 30px;
-}
-
-/* 5 */
-#elem9 {
+	padding: 10px 10px 10px 10px;
 	width: 300px;
-	border: 1px solid goldenrod;
-}
-#elem10 {
-	height: 20px;
-	border: 1px dashed blue;
-	margin: 30px 30px 40px;
+	border: 1px solid red;
+	text-align: justify;
 }
