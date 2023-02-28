@@ -1,15 +1,6 @@
-#elem1 {
+div {
 	width: 100px;
 	height: 100px;
-	background: greenyellow;
-	margin-bottom: 10px;
-}
-
-#elem2 {
-	width: 100px;
-	height: 100px;
-	background: greenyellow;
-	padding: 40px;
-	border: 10px solid goldenrod;
-	box-sizing: border-box;
+	margin-bottom: 20px;
+	border: 1px solid red;
 }
