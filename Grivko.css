@@ -1,24 +1,17 @@
-.elem {
-    border: 1px solid red;
-}
-
 .elem1 {
-    height: 100px;
-    width: 100px;
-    border: 1px solid green;
-    margin: 10px auto;
+    padding: 10px 0;
+    border: 1px solid greenyellow;
+    text-align: center;
 }
 
 .elem2 {
-    height: 100px;
-    width: 150px;
-    border: 1px solid green;
-    margin: 10px auto;
+    padding: 10px 0;
+    border: 1px solid greenyellow;
+    text-align: right;
 }
 
 .elem3 {
-    height: 100px;
-    width: 200px;
-    border: 1px solid green;
-    margin: 10px auto;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid greenyellow;
+    text-align: right;
 }
