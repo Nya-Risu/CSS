@@ -1,17 +1,37 @@
+/* 1 */
 .elem1 {
     padding: 10px 0;
-    border: 1px solid greenyellow;
+    border: 1px solid red;
     text-align: center;
 }
-
 .elem2 {
-    padding: 10px 0;
-    border: 1px solid greenyellow;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid green;
+    margin: 5px auto;
+}
+/* 2 */
+.elem3 {
+    padding: 10px 5px;
+    border: 1px solid red;
     text-align: right;
 }
-
-.elem3 {
-    padding: 10px 10px 10px 10px;
-    border: 1px solid greenyellow;
+.elem4 {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid green;
+    margin: 5px;
+}
+/* 3 */
+.elem5 {
+    padding: 10px 0;
+    border: 1px solid red;
     text-align: right;
+}
+.elem6 {
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    border: 1px solid green;
 }
