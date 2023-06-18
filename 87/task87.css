@@ -1,0 +1,11 @@
+
+div {
+    width: 600px;
+    text-align: justify;
+}
+.one{
+    float:right;
+}
+.two {
+    float: left;
+}
