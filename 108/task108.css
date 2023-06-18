@@ -1,0 +1,45 @@
+
+#menu {
+    display: flex;
+}
+#menu .one {
+    margin-right: 5px;
+    padding: 10px;
+    font: 15px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    background-color: #099958;
+}
+#menu .one:hover,
+#menu .one.active {
+    color: #099958;
+    border: 1px solid #099958;
+    background-color: rgb(254, 255, 252);
+}
+
+#menu1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100px;
+    height: 40px;
+}
+#menu1 .two {
+    width: 100px;
+    height: 40px;
+    margin-right: 5px;
+    padding: 10px;
+    font: 15px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    background-color: #099958;
+}
+#menu1 .two:hover,
+#menu1 .two.active {
+    color: #099958;
+    border: 1px solid #099958;
+    background-color: rgb(254, 255, 252);
+}
