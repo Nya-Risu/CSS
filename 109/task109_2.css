@@ -1,0 +1,25 @@
+#wrapper {
+    width: 800px;
+    margin: 50px auto;
+}
+.one, .two, .three{
+    border: 1px solid black;
+    margin: 20px;
+}
+#content {
+    padding: 0 30px 20px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#content p {
+    padding: 1 10px;
+    margin-bottom: 2px;
+    font: 15px/1.3 Arial;
+    text-align: justify;
+}
